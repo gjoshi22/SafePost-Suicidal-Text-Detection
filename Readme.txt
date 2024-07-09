@@ -1,4 +1,4 @@
-# Mental Health Counselor Chatbot
+#Mental Health Counselor Chatbot
 
 A Chatbot Trained on Mental Health Q&A data between doctors and patients was developed by fine-tuning Meta’s LLAMA2 large-language model using the QLORA technique to guide individuals towards appropriate therapeutic directions. The trained chatbot has been uploaded to hugging face library for anyone to try and use.
 
